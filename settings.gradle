@@ -1,0 +1,2 @@
+rootProject.name='Invocador de gatos'
+include ':app'
